@@ -10,7 +10,7 @@ def np_slice(matrix, axes={}):
 
     Args:
         matrix (numpy.ndarray): The array to slice.
-        axes (dict): Keys are axis indices, values are tuples defining 
+        axes (dict): Keys are axis indices, values are tuples defining
                      slices (start, stop[, step]) for that axis.
 
     Returns:
