@@ -15,7 +15,8 @@ def add_matrices2D(mat1, mat2):
         mat2: Second 2D matrix (list of lists containing ints/floats)
 
     Returns:
-        list: A new 2D matrix with element-wise sum, or None if shapes don't match
+        list: A new 2D matrix with element-wise
+        sum, or None if shapes don't match
     """
     if len(mat1) != len(mat2):
         return None
