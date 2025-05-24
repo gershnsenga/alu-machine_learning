@@ -7,10 +7,10 @@ Transpose a matrix using numpy.
 def np_transpose(matrix):
     """
     Transpose a matrix using numpy.
-    
+
     Args:
-        matrix: A numpy.ndarray or array-like object
-        
+        matrix (numpy.ndarray): A numpy array or array-like object
+
     Returns:
         numpy.ndarray: The transposed matrix
     """
