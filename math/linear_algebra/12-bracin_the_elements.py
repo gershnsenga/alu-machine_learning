@@ -18,7 +18,6 @@ def np_elementwise(mat1, mat2):
     Returns:
         tuple: A tuple containing (sum, difference, product, quotient)
     """
-    
     addition = mat1 + mat2
     subtraction = mat1 - mat2
     multiplication = mat1 * mat2
