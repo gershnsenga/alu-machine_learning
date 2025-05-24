@@ -2,6 +2,8 @@
 """
 Transpose a matrix using numpy.
 """
+
+
 def np_transpose(matrix):
     """
     Transpose a matrix using numpy.

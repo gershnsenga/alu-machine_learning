@@ -3,6 +3,8 @@
 Matrix multiplication using NumPy.
 This module provides a function to perform matrix multiplication using NumPy.
 """
+
+
 import numpy as np
 
 def np_matmul(mat1, mat2):

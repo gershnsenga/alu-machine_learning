@@ -4,6 +4,7 @@ Multiply two matrices together.
 This module provides a function to perform matrix multiplication on two 2D matrices (lists of lists).
 """
 
+
 def mat_mul(mat1, mat2):
     """
     Perform matrix multiplication of two 2D matrices.
