@@ -16,6 +16,7 @@ def cat_arrays(arr1, arr2):
         arr2 (list): Second array (list of ints/floats)
 
     Returns:
-        list: A new list containing all elements from arr1 followed by all elements from arr2
+        list: A new list containing all elements 
+        from arr1 followed by all elements from arr2
     """
     return arr1 + arr2

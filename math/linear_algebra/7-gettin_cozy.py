@@ -17,7 +17,8 @@ def cat_matrices2D(mat1, mat2, axis=0):
         axis (int): Axis along which to concatenate (0 for rows, 1 for columns)
 
     Returns:
-        list: A new 2D matrix with concatenated matrices, or None if incompatible shapes
+        list: A new 2D matrix with concatenated 
+        matrices, or None if incompatible shapes
     """
     if axis == 0:
         # Concatenate along rows (stack vertically)

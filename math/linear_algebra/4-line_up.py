@@ -3,6 +3,8 @@
 Add arrays element-wise.
 This module provides a function to add two arrays element-wise.
 """
+
+
 def add_arrays(arr1, arr2):
     
     
