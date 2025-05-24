@@ -56,7 +56,8 @@ def cat_matrices(mat1, mat2, axis=0):
 
         result = []
         for i in range(len(m1)):
-            concatenated = concatenate_recursive(m1[i], m2[i], current_axis + 1, target_axis)
+            concatenated = concatenate_recursive(
+                m1[i], m2[i], current_axis + 1, target_axis)
             if concatenated is None:
                 return None
             result.append(concatenated)
