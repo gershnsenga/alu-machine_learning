@@ -1,5 +1,5 @@
-#!/usr/env/bin python3
-""""
+#!/usr/bin/env python3
+"""
 Function that calculates the minor matrix of a given matrix
 """
 
