@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Function that calculates the cofactor matrix of a given matrix
 """
